@@ -1,27 +1,204 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building scalable backend systems and AI-driven applications using Python, Node.js, and machine learning, while strengthening my problem-solving and system design skills.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, backend development, AI/ML applications, and real-world problem-solving projects that create meaningful impact.<br><br>🤝 I’m looking for help with<br>Advanced system design, distributed systems, and optimizing machine learning models for production use.<br><br>🌱 I’m currently learning<br>Cloud architecture (AWS), scalable backend design, MLOps basics, and advanced machine learning techniques.<br><br>💬 Ask me about<br>Backend development, REST APIs, Node.js, Python, AI/ML projects, computer vision, and building user-centric applications.<br><br>⚡ Fun fact<br>I enjoy turning complex problems into simple, usable solutions—and I’ve built projects that improved accessibility and healthcare outcomes using AI.
 
+<!--
+  GitHub Profile README
+  Repository name: Amanydv16
+  Replace the TODO placeholders before publishing.
+-->
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ydv._.amannn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-yadav-ba1388250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanyadavji9099@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amanydv16&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Amanydv16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanydv16&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1B1B,50:343434,100:9C8065&height=220&section=header&text=Aman%20Yadav&fontSize=52&fontColor=F5EDE3&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Building%20Scalable%20Products&descAlignY=58&descSize=16" width="100%" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amanydv16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/Amanydv16">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=C49A6C&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Backend+%26+API+Development;Building+Practical+AI-Powered+Solutions;Turning+Ideas+Into+Reliable+Software" alt="Typing SVG" />
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amanydv16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/Amanydv16">
+  <img src="https://komarev.com/ghpvc/?username=Amanydv16&label=PROFILE%20VIEWS&color=9C8065&style=for-the-badge" alt="Profile views" />
+</a>
+<a href="https://github.com/Amanydv16?tab=followers">
+  <img src="https://img.shields.io/github/followers/Amanydv16?label=FOLLOWERS&style=for-the-badge&color=9C8065" alt="GitHub followers" />
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amanydv16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://img.shields.io/badge/01-ABOUT%20ME-9C8065?style=for-the-badge" />
+
+Hi, I'm **Aman Yadav**, a Full-Stack Software Engineer and Computer Science graduate from VIT Bhopal, specializing in Artificial Intelligence and Machine Learning.
+
+I enjoy designing and developing end-to-end software systems, building reliable backend services, and creating user-focused applications. My experience spans full-stack development, API engineering, data-driven applications, and applied machine learning.
+
+- Building scalable applications and backend systems.
+- Working with Python, TypeScript, JavaScript, and modern web technologies.
+- Interested in system design, software architecture, and practical AI/ML applications.
+- Currently contributing to engineering work around royalty analytics, financial modelling, and advance estimation systems.
+
+<br/>
+
+## <img src="https://img.shields.io/badge/02-TECHNICAL%20EXPERIENCE-9C8065?style=for-the-badge" />
+
+### Software Engineering — Monetunes
+
+Working on engineering systems for a music publishing platform serving artists and labels.
+
+- Contributing to an Advance Royalty Estimator for royalty underwriting and advance valuation.
+- Developing TypeScript-based financial and mathematical calculation modules.
+- Working on centralized recoupment and earning-allocation logic.
+- Improving API reliability, transaction safety, test coverage, and application workflows.
+- Collaborating on product features across backend services and the deal application.
+
+### Software Engineering Intern — Instahyre
+`February 2026 – April 2026`
+
+- Worked with Python, Django, Mercurial, and Phabricator.
+- Contributed to backend engineering workflows and application development.
+
+### Data Science Intern — Indian Oil Corporation Ltd.
+`November 2025 – February 2026`
+
+**Project: Predictive Analytics for Fuel Demand Optimization**
+
+- Worked on predictive analytics for fuel demand optimization.
+- Improved prediction accuracy by **15%**.
+- Improved model performance by **20%**.
+
+### Software Engineering Intern — HackerRank
+`March 2025 – May 2025`
+
+- Worked on backend API development using Python and Node.js.
+- Contributed to backend functionality and API-oriented development.
+
+<br/>
+
+## <img src="https://img.shields.io/badge/03-TECH%20STACK-9C8065?style=for-the-badge" />
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,django,express" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq,aws,docker" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/04-FEATURED%20PROJECTS-9C8065?style=for-the-badge" />
+
+### AquaDepth
+<!-- TODO: Add verified project description and repository URL from portfolio. -->
+
+### BeatWell-AI
+<!-- TODO: Add verified project description and repository URL from portfolio. -->
+
+### GesturEase
+<!-- TODO: Add verified project description and repository URL from portfolio. -->
+
+<br/>
+
+## <img src="https://img.shields.io/badge/05-ACHIEVEMENTS%20%26%20CERTIFICATIONS-9C8065?style=for-the-badge" />
+
+- 🏆 **Winner — Inter VIT Hackathon**, AdVITya 2024.
+- 🚀 **Top 50 — National Hackathon.**
+- 💡 **Adobe India Hackathon 2025** — Qualified for Round 2.
+
+### Certifications
+
+- AWS Cloud Practitioner Essentials.
+- Google Introduction to AI.
+- Google Data Analytics.
+- Microsoft Foundations of AI and ML.
+- IBM Generative AI.
+
+<br/>
+
+## <img src="https://img.shields.io/badge/06-GITHUB%20STATISTICS-9C8065?style=for-the-badge" />
+
+<div align="center">
+
+### GitHub Overview
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanydv16&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=C49A6C&icon_color=C49A6C&text_color=BBBBBB&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanydv16&layout=compact&langs_count=10&theme=transparent&hide_border=true&title_color=C49A6C&text_color=BBBBBB&bg_color=0D1117" />
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=Amanydv16&theme=transparent&hide_border=true&ring=C49A6C&fire=C49A6C&currStreakLabel=C49A6C&sideLabels=BBBBBB&dates=888888&background=0D1117" />
+
+### Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amanydv16&bg_color=0D1117&color=BBBBBB&line=C49A6C&point=F5EDE3&area=true&hide_border=true" width="100%" />
+
+### GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Amanydv16&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/07-CONTRIBUTION%20SNAKE-9C8065?style=for-the-badge" />
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Amanydv16/Amanydv16/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+<br/>
+
+## <img src="https://img.shields.io/badge/08-LET'S%20CONNECT-9C8065?style=for-the-badge" />
+
+<div align="center">
+
+<a href="https://github.com/Amanydv16">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- TODO: Replace with your actual LinkedIn profile URL. -->
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- TODO: Replace with your professional email address. -->
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building things that solve real problems, one commit at a time."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C8065,50:343434,100:1B1B1B&height=120&section=footer" width="100%" />
+
+</div>
